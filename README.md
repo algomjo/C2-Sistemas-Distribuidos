@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href=" https://github.com/">
+  <a href=" https://github.com/algomjo/C2-Sistemas-Distribuidos.git">
     <img src="https://i1.wp.com/www.docker.com/blog/wp-content/uploads/2020/02/Compose.png?resize=200%2C219&ssl=1" alt="Logo" width="100" height="100">
   </a>
 
@@ -17,9 +17,9 @@ O build da imagem `php_app` será criada na execução do docker compose.
 
 ## Como rodar o projeto
 
-1. Faça o download do diretório (ou faça um clone deste repositório inteiro);
+1. Faça o download do diretório ;
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/algomjo/C2-Sistemas-Distribuidos.git
    ```
 2. Executar o docker-compose na raiz do projeto via terminal
    ```sh
